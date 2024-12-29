@@ -1,7 +1,5 @@
 # Assignment 1
 
-## Total 20 marks (Will be scaled down to 10 marks)
-
 # Human Activity Recognition (HAR)
 Human Activity Recognition (HAR) refers to the capability of machines to identify various activities performed by the users. The knowledge acquired from these systems/algorithms is integrated into many applications where the associated device uses it to identify actions or gestures and performs predefined tasks in response.
 
